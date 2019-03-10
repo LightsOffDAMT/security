@@ -1,0 +1,8 @@
+secreyKey: secret123
+server:
+  port: 8002
+
+logging:
+  level:
+    ru.lightsoff.security: DEBUG
+
